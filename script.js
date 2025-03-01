@@ -35,4 +35,4 @@ ScrollReveal({
     duration:2000,
     delay:200,
 });
-ScrollReveal().reveal('.careers h2,.services h2,.about h2,.join h2, .welcome h2',{origin:'top'});
+ScrollReveal().reveal('.careers h2,.services h2,.about h2,.join h2, .welcome h2',{origin:'bottom'});

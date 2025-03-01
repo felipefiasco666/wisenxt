@@ -18,6 +18,9 @@
 body{
     background-color:#081b29 ;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 .header{
     top: 0;
@@ -242,7 +245,7 @@ body{
 }
 .about{
     
-    background-image: url('pexels-julia-m-cameron-4145153.jpg');
+    background-image: url('cmaron2.jpg');
     height: 920px;
     min-height: 120px;
     background-position: center;
